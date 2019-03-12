@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeCards4Kids", "TimeCards4Kids\TimeCards4Kids.csproj", "{4DED1654-5171-4215-963F-2372A9B981DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeCards4Kids", "TimeCards4Kids\TimeCards4Kids.csproj", "{4DED1654-5171-4215-963F-2372A9B981DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

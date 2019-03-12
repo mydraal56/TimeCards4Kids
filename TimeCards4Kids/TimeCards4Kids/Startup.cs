@@ -12,6 +12,8 @@ using Microsoft.Extensions.DependencyInjection;
 using TimeCards4Kids.Models;
 using Microsoft.EntityFrameworkCore;
 
+using Microsoft.AspNetCore.Identity;
+
 namespace TimeCards4Kids
 {
     public class Startup
@@ -32,10 +34,19 @@ namespace TimeCards4Kids
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
-            var connection = @"Server=JONDESKTOP\SQLEXPRESS;Database=EFGetStarted.AspNetCore.NewDb;Trusted_Connection=True;ConnectRetryCount=0";
-            services.AddDbContext<BloggingContext>
+
+            services.AddDefaultIdentity<UserLogin>()
+                .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            services.Configure<IdentityOptions>(options =>
+            {
+
+
+            });
+            var connection = @"Server=JONDESKTOP\SQLEXPRESS;Database=TimeCardsForKids;Trusted_Connection=True;ConnectRetryCount=0";
+            services.AddDbContext<MainContext>
                 (options => options.UseSqlServer(connection));
-            services.AddDefaultIdentity<ApplicationUser>();
+            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 

@@ -21,3 +21,11 @@ D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\obj\Debug\netcoreapp2.2
 D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\obj\Debug\netcoreapp2.2\TimeCards4Kids.RazorTargetAssemblyInfo.cache
 D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\obj\Debug\netcoreapp2.2\TimeCards4Kids.RazorTargetAssemblyInfo.cs
+D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\bin\Debug\netcoreapp2.2\TimeCards4Kids.pdb
+D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\bin\Debug\netcoreapp2.2\TimeCards4Kids.Views.dll
+D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\bin\Debug\netcoreapp2.2\TimeCards4Kids.Views.pdb
+D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\obj\Debug\netcoreapp2.2\TimeCards4Kids.Views.pdb
+D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\obj\Debug\netcoreapp2.2\TimeCards4Kids.dll
+D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\obj\Debug\netcoreapp2.2\TimeCards4Kids.pdb
+D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\obj\Debug\netcoreapp2.2\TimeCards4Kids.csproj.CopyComplete
+D:\Programs\TimeCards4Kids\TimeCards4Kids\TimeCards4Kids\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
