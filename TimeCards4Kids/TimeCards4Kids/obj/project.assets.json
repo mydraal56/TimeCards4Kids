@@ -12087,11 +12087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mydra\\Source\\repos\\TimeCards4Kids\\TimeCards4Kids\\TimeCards4Kids.csproj",
+      "projectUniqueName": "D:\\Programs\\TimeCards4Kids\\TimeCards4Kids\\TimeCards4Kids\\TimeCards4Kids.csproj",
       "projectName": "TimeCards4Kids",
-      "projectPath": "C:\\Users\\mydra\\Source\\repos\\TimeCards4Kids\\TimeCards4Kids\\TimeCards4Kids.csproj",
+      "projectPath": "D:\\Programs\\TimeCards4Kids\\TimeCards4Kids\\TimeCards4Kids\\TimeCards4Kids.csproj",
       "packagesPath": "C:\\Users\\mydra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mydra\\Source\\repos\\TimeCards4Kids\\TimeCards4Kids\\obj\\",
+      "outputPath": "D:\\Programs\\TimeCards4Kids\\TimeCards4Kids\\TimeCards4Kids\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
